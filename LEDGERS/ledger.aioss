@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: FACTORY_MANUFACTURING/LINUXCNC
+# records: 5
+# head: 4377f8a44fa2ee2ae64f56c6d3ef96f4d3639af4eda8cb03e17692923becf26e
+{"digest": "5395bc6603b9e6655c8e9a19ee6186040253004c948ed1ce750c245efe1d2b2f", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "b703dc6403185c5472e0227163fd673898007abecf839dd525c1cdd8cee321ba", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:53:04Z"}
+{"digest": "09f73a1f55442ff2a9ae41e709bfa02dc61654807a6cbcf617631afac4bd8441", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "79da40f90bc92fef234b5adc64e63a054358a35d3603929bcb5f8308ceac6788", "prev": "5395bc6603b9e6655c8e9a19ee6186040253004c948ed1ce750c245efe1d2b2f", "seq": 1, "ts": "2026-10-09T05:53:04Z"}
+{"digest": "6a6fcb15e72b999b2449dff802dd64db7ceb096924844e6a4c503d59a5504430", "kind": "readme", "path": "README.md", "payload_sha3": "253e8ccc14820cc3c75aebb94ec77bc50866a3ba0e4ce96bcac3a4eab789729b", "prev": "09f73a1f55442ff2a9ae41e709bfa02dc61654807a6cbcf617631afac4bd8441", "seq": 2, "ts": "2026-10-09T05:53:04Z"}
+{"digest": "1aceea9ddbae37b62ca3cb86fe7025004a90c42c38ea1cd7cfe00c84768ecc17", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "11f5959590cc961b742c023badb04417a685d147cb3809cbe60560e7702c2d3e", "prev": "6a6fcb15e72b999b2449dff802dd64db7ceb096924844e6a4c503d59a5504430", "seq": 3, "ts": "2026-10-09T05:53:04Z"}
+{"digest": "4377f8a44fa2ee2ae64f56c6d3ef96f4d3639af4eda8cb03e17692923becf26e", "kind": "notice", "path": "NOTICE", "payload_sha3": "6eceea2e45bf52b9b78d6a8aae987067acef5de206b2bc9bf2b79113e43aaca4", "prev": "1aceea9ddbae37b62ca3cb86fe7025004a90c42c38ea1cd7cfe00c84768ecc17", "seq": 4, "ts": "2026-10-09T05:53:04Z"}
